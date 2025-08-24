@@ -1,0 +1,8 @@
+crewai>=0.51.0
+crewai_tools>=0.14.0
+openai>=1.40.6
+litellm>=1.47.0
+pydantic>=2.8.2
+typer[all]>=0.12.3
+rich>=13.7.1
+python-dotenv>=1.0.1
