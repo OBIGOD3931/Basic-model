@@ -1,0 +1,9 @@
+{
+	"demographics": {"age": 54, "sex": "male"},
+	"chief_complaint": "Intermittent chest pain for 2 days",
+	"symptoms": ["chest_pain", "shortness of breath on exertion"],
+	"history": ["hypertension", "hyperlipidemia"],
+	"current_medications": ["atorvastatin 20mg nightly"],
+	"allergies": ["penicillin"],
+	"wearable": null
+}
